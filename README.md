@@ -1,2 +1,2 @@
-# MVC-sucurity
+# MVC-security
 MVC security
